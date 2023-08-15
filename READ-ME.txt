@@ -1,0 +1,11 @@
+  =>  standard Name    : GOLD MARK 
+
+  =>  standard Link    : https://htmlcodex.com/hotel-html-standard
+
+  =>  standard License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  standard Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML standards, HTML landing pages, HTML email standards and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
